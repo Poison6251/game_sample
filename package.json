@@ -1,0 +1,12 @@
+{
+  "name": "Project_Item_API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.6.2",
+    "mongoose": "^8.3.5"
+  }
+}
