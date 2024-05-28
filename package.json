@@ -5,8 +5,12 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.6.2",
     "mongoose": "^8.3.5"
-  }
+  },
+  "repository": "https://github.com/Poison6251/game_sample.git",
+  "author": "Poison6251 <101390131+Poison6251@users.noreply.github.com>"
 }

@@ -3,7 +3,7 @@ import goodsRouter from './routes/goods.js';
 import connect from './schemas/index.js';
 
 const app = express();
-const PORT = 3000;
+const PORT = 4000;
 
 app.use(express.json()); 
 app.use(express.urlencoded({ extended: true }));

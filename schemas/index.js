@@ -7,7 +7,7 @@ const connect = () => {
     .connect(
       'mongodb+srv://aadds012:sch124579@express-mongo.zizrffz.mongodb.net/?retryWrites=true&w=majority&appName=express-mongo',
       {
-        dbName: 'spa_mall', // spa_mall 데이터베이스명을 사용합니다.
+        dbName: 'gameApi', // gameApi 데이터베이스명을 사용합니다.
       },
     )
     .catch((err) => console.log(err))
